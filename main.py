@@ -10,3 +10,5 @@ print(f"In an exehibit i saw a {noun1} that was {adjective2}")
 print(f"Then I saw a {noun2} that was {adjective3}")
 print(f"Finally I saw a {noun1} that was {adjective2}")
 print(f"Today was a {adjective1} day at the zoo")
+
+print("Thanks for playing!")
