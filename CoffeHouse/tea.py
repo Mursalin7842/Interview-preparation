@@ -17,3 +17,5 @@ print(os.environ.get("PATH"))
 
 # Join paths safely (cross-platform)
 print(os.path.join("folder", "file.txt"))
+
+print(os.cpu_count())
