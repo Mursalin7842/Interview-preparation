@@ -22,3 +22,5 @@ print(os.cpu_count())
 print(os.name)
 print(os.stat("tea.py"))
 print(os.path.abspath("tea.py"))
+path1=r"E:\Python code\Starter Pack\CoffeHouse"
+print(f"Basename of '{path1}': {os.path.basename(path1)}")
