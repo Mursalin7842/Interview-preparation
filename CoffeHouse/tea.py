@@ -19,3 +19,6 @@ print(os.environ.get("PATH"))
 print(os.path.join("folder", "file.txt"))
 
 print(os.cpu_count())
+print(os.name)
+print(os.stat("tea.py"))
+print(os.path.abspath("tea.py"))
