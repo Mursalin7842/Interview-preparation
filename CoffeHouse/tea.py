@@ -27,3 +27,7 @@ print(f"Basename of '{path1}': {os.path.basename(path1)}")
 
 print(sys.version)
 print(sys.version_info)
+
+
+print("This is a regular message.", file=sys.stdout)
+print("This is an error message!", file=sys.stderr)
